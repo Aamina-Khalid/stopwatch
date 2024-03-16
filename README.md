@@ -30,12 +30,6 @@ Restart Your Github and your site is live at Pages.
 
 ## Technologies Used
 
-HTML : To create Layout of the website. The standard markup language for creating the structure of the website.
-
-CSS : To style the Layout creted from HTML.
-
-JavaScript : To add interactive elements and dynamic features to the website.
-
 
 
 HTML : To create Layout of the website. The standard markup language for creating the structure of the website.
