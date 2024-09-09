@@ -1,7 +1,16 @@
 ## StopWatch
-A stopwatch is a timepiece designed to measure the amount of time that elapses between its activation and deactivation.
 
-Creating responsive stopwatch from Frontend Technologies like HTML, CSS and Javscript to Start, Stop and Reset time intervals for your daily needs is a mini project a junior developer can create but it shows dedication to their career.
+This stopwatch application, developed using HTML, CSS, and JavaScript, allows users to start, stop, and reset time with a simple and intuitive interface. It is designed for precision and ease of use, making it perfect for tracking time in various activities.
+
+Features:
+
+Start/Stop Functionality: Users can easily start and stop the timer with a single click.
+
+Reset Timer: Reset the stopwatch back to zero at any time.
+
+Accurate Time Display: Displays time in hours, minutes, seconds, and milliseconds for precise tracking.
+
+Minimalist Design: Clean, user-friendly design with responsive features for different devices.
 
 ## Demo
 Insert gif or link to demo:
