@@ -6,7 +6,7 @@ Features:
 
 Start/Stop Functionality: Users can easily start and stop the timer with a single click.
 
-Reset Timer: Reset the stopwatch back to zero at any time.
+Reset Time : Reset the stopwatch back to zero at any time.
 
 Accurate Time Display: Displays time in hours, minutes, seconds, and milliseconds for precise tracking.
 
